@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+samsung.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+.samsung.com	TRUE	/	FALSE	1999999999	country_codes	in
+.samsung.com	TRUE	/	FALSE	1999999999	__COM_SPEED	H
+.samsung.com	TRUE	/	FALSE	1999999999	device_type	pc
+
